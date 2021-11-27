@@ -1,1 +1,1 @@
-java -jar build/libs/first_app-1.0-SNAPSHOT.jar
+web:java -jar build/libs/first_app-1.0-SNAPSHOT.jar
