@@ -1,8 +1,6 @@
 out
 .gradle
 .idea
-gradlew
-gradlew.bat
 .DS_Store
 build
 *.class
